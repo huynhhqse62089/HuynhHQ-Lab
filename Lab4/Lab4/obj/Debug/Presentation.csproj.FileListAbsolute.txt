@@ -1,0 +1,13 @@
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\Lab4\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\Lab4\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\Lab4\obj\Debug\Lab4.pdb
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\Lab4\bin\Debug\BusinessLogic.dll
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\Lab4\bin\Debug\DataProvider.dll
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\Lab4\bin\Debug\BusinessLogic.pdb
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\Lab4\bin\Debug\DataProvider.pdb

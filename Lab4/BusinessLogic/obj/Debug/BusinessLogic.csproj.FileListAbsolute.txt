@@ -1,0 +1,7 @@
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\BusinessLogic\bin\Debug\DataProvider.dll
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\BusinessLogic\bin\Debug\DataProvider.pdb
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\BusinessLogic\obj\Debug\BusinessLogic.pdb

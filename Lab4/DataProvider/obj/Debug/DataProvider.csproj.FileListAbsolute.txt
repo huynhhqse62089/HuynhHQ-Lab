@@ -1,0 +1,5 @@
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\DataProvider\bin\Debug\DataProvider.dll
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\DataProvider\bin\Debug\DataProvider.pdb
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\DataProvider\obj\Debug\DataProvider.csprojResolveAssemblyReference.cache
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\DataProvider\obj\Debug\DataProvider.dll
+D:\Resource FPT\Semester 5\C#\Assignment\Lab4\DataProvider\obj\Debug\DataProvider.pdb
